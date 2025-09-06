@@ -72,6 +72,7 @@ The project was completed in the following stages:
 
   Prerequisites: 🛠️ Make sure you have the necessary libraries, such as PyTorch, installed.
 
-  Run the Notebook: 🖥️ The code is available here: . You can run it in Google Colab or any Jupyter environment.
+  Run the Notebook: 🖥️ The code is available here: https://github.com/NiliSoleil/CNN-MNIST/blob/main/CNN_MNIST.ipynb
+  You can run it in Google Colab or any Jupyter environment.
 
 Niloufar Soleil
